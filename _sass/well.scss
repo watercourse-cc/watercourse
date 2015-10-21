@@ -1,4 +1,9 @@
 .well {
   background: aliceblue;
   padding: 1em;
+  margin-bottom: 1em;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
 }
