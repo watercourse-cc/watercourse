@@ -1,0 +1,15 @@
+#mc_embed_signup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fdfdfd !important;
+
+  input.email {
+    width: 100% !important;
+  }
+
+  input.button {
+    margin: 0 auto !important;
+    min-width: 55% !important;
+  }
+}
