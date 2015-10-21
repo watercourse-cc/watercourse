@@ -1,0 +1,11 @@
+.pull {
+  z-index: 100;
+  position: relative;
+  background: rgba(255, 255, 255, 0.65);
+  padding: 2em;
+
+  &.up {
+    margin-top: -9em;
+  }
+}
+

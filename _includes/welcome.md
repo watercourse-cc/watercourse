@@ -1,3 +1,9 @@
+<div class="pull up">
+<p>The journey through life can be difficult at times. At Watercourse
+Counseling Center, our caring therapists are here to make that journey
+with you.</p>
+</div>
+
 Watercourse Counseling Center is a nonprofit organization, rooted in
 community, with a 16-year history of serving the emotional needs of
 people of all ages from diverse communities in Minneapolis.
@@ -15,6 +21,11 @@ a positive experience from the very first session. Thanks for helping my
 son 'turn it around' so beautifully. Having a genuine, warm therapist
 with a sense of humor is a godsend!"</p>
 </section>
+
+We operate from a fundamental belief in the power of relationship in
+life and in healing. Our approach relies on collaboration in which each
+person matters and in which each peron's abilities, sense of self, and
+life experiences are valued and utilized. 
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
