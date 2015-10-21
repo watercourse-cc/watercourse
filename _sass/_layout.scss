@@ -81,11 +81,14 @@
         .page-link {
             display: block;
             padding: 5px 10px;
+            color: $grey-color-dark;
 
             &:not(:last-child) {
                 margin-right: 0;
             }
             margin-left: 20px;
+
+            a { color: $grey-color-dark; }
         }
     }
 }
