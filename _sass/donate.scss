@@ -1,0 +1,13 @@
+.donate {
+  iframe {
+    max-height: 77px;
+  }
+
+  &.centered {
+    text-align: center;
+
+    iframe {
+      width: 100%;
+    }
+  }
+}

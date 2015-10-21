@@ -6,8 +6,9 @@ nav: 4
 
 ## Imagine that you've lived in three apartments and attended two schools since your last birthday.
 
-TODO
+<div class="donate right">
 <iframe class="page_donate_1" frameborder="0" src="http://watercoursecounseling.org/cgi-bin/snippet.cgi?todo=as_page;instance=4547309800;num=0;community_id=4008571252" scrolling="no" allowtransparency="true" style="float: right;"></iframe>
+</div>
 
 With each move, you lose contact with friends, neighbors, and teachers; after school your only option is to be at home to watch your younger siblings so your mother can work.
  
@@ -24,16 +25,18 @@ Your donation will allow us to build and grow these programs to support students
 * Tree of Life groups, a curriculum to help students in transition assess their strengths and resources, identify goals, and learn skills to overcome challenges as they reach for those goals.
 * An adaptation of our successful 12-week acculturation groups for refugees from East Africa, to help students from other communities
 
-TODO
-<iframe class="page_donate_1" frameborder="0" src="http://watercoursecounseling.org/cgi-bin/snippet.cgi?todo=as_page;instance=4547309800;num=0;community_id=4008571252" scrolling="no" allowtransparency="true"></iframe>
 
-All gifts make a big impact.
+## All gifts make a big impact.
 
-$50 supports one Sunshine Circle session
+<div class="donate centered">
+
+<p>$50 supports one Sunshine Circle session</p>
  
-$100 supports a Parenting through Change session
+<p>$100 supports a Parenting through Change session</p>
 
-$250 supports a Tree of Life group facilitator
+<p>$250 supports a Tree of Life group facilitator</p>
 
-$500 supports curriculum adaptation for diverse communities
+<p>$500 supports curriculum adaptation for diverse communities</p>
 
+<iframe class="page_donate_1" frameborder="0" src="http://watercoursecounseling.org/cgi-bin/snippet.cgi?todo=as_page;instance=4547309800;num=0;community_id=4008571252" scrolling="no" allowtransparency="true"></iframe>
+</div>
