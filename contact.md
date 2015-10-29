@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact Watercourse
-nav: 5
 ---
 
 For more information about our programs and services, or to schedule an intake appointment, please contact us using the information below:
