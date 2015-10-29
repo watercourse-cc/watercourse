@@ -8,12 +8,16 @@ header.site-header {
   min-height: 68vh;
   background-size: cover;
   color: white;
-  display: flex;
 
   .site-title {
     font-weight: bold;
   }
   .site-title, nav a {
-    color: #fdfdfd;
+    color: #111;
+  }
+
+  .nav {
+    background: white;
+    padding: 0.25em 1em;
   }
 }

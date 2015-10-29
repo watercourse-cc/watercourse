@@ -13,7 +13,7 @@ increase emotional wellness. Our community clinics and school-based
 therapists provide counseling for individuals, families, and groups
 across the city.
 
-<section class="well">
+<section class="well stretch">
 <p>
 "[Our school-based therapist] worked to get my son engaged and
 comfortable, mixing work and play, getting him to open up. This has been
@@ -25,7 +25,7 @@ with a sense of humor is a godsend!"</p>
 We operate from a fundamental belief in the power of relationship in
 life and in healing. Our approach relies on collaboration in which each
 person matters and in which each peron's abilities, sense of self, and
-life experiences are valued and utilized. 
+life experiences are valued and utilized.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
@@ -47,7 +47,7 @@ life experiences are valued and utilized.
 </div>
 <!--End mc_embed_signup-->
 
-<section class="well">
+<section class="well stretch">
 <p>
 “My therapist offered support and asked the right questions.  The
 treatment plan we wrote kept me in a progressive mindset and seeing and

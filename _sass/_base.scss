@@ -155,7 +155,7 @@ pre {
 /**
  * Wrapper
  */
-.wrapper {
+.wrapper > :not(.stretch) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
@@ -172,7 +172,9 @@ pre {
     }
 }
 
-
+.stretch {
+  width: 100%;
+}
 
 /**
  * Clearfix
@@ -204,3 +206,5 @@ pre {
         }
     }
 }
+
+* { box-sizing: border-box; }

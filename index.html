@@ -2,7 +2,5 @@
 layout: default
 ---
 
-<div class="home">
-  {% capture index_content %}{% include welcome.md %}{% endcapture %}
-  {{ index_content | unindent | markdownify }}
-</div>
+{% capture index_content %}{% include welcome.md %}{% endcapture %}
+{{ index_content | unindent | markdownify }}
