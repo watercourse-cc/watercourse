@@ -24,4 +24,13 @@ header.site-header {
   .donate {
     background-color: #f9ebcd;
   }
+
+  .phone {
+    @include media-query($on-palm) {
+      display: none;
+    }
+
+    float: right;
+    margin-top: 1em;
+  }
 }
