@@ -1,5 +1,5 @@
 header.site-header {
-  background: url("../rocks-close-to-the-edge.jpg") no-repeat 50% 50%,
+  background: url("../rocks-close-to-the-edge.jpg") no-repeat 60% 111px,
   linear-gradient(0deg,
     transparent,
     transparent 30%,
@@ -44,4 +44,8 @@ header.site-header {
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
+}
+
+.site-nav {
+  padding-bottom: 7px;
 }
