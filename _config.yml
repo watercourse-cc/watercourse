@@ -12,6 +12,7 @@ url: "http://test.watercoursecounseling.org" # the base hostname & protocol for 
 # twitter_username: jekyllrb
 # github_username:  jekyll
 facebook_username: watercoursecounseling
+permalink: pretty
 
 # Build settings
 markdown: kramdown
