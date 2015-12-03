@@ -6,8 +6,6 @@ nav: 2
 
 # Clinic-based services
 
-## Two Clinics, One Mission
-
 Watercourse Counseling Center operates two community clinics. Each offers individual, family, and couples counseling for adults and children.
 
 We work with general mental health issues such as depression, anxiety, life transitions, grief and loss, self-care, self-esteem and stress management.  We also help clients with addiction and impulse control, parenting and healthy development, relationships, sexuality and sexual orientation, identity, and spiritual connection.
@@ -15,16 +13,21 @@ We work with general mental health issues such as depression, anxiety, life tran
 ### Our South Minneapolis clinic
 
 Phone:       612-822-8227
+
 Address:    3548 Bryant Avenue South
 Located at the corner of 36th and Bryant.
+
 Parking:     Street parking available
 
 ### Our North Minneapolis clinic:
 
 Phone:       612-276-1569
+
 Address:    3333 North 4th Street
 Located at the Center for Families
+
 Parking:     Free lot parking
+
 Wheelchair-accessible: Yes
 
 ## Call us to get started
