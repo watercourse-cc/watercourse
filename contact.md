@@ -10,7 +10,7 @@ Address:
     Minneapolis, MN 55408
  
 Phone:  
-    612.822.8227
+    612-822-8227
  
 Fax:  
     612-825-4204
