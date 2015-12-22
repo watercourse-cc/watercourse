@@ -4,22 +4,19 @@ title: Donate
 nav: 4
 ---
 
-## Imagine that you've lived in three apartments and attended two schools since your last birthday.
+>"I'd love to see even more students served by this program. It's amazing." - School principal
 
-With each move, you lose contact with friends, neighbors, and teachers; after school your only option is to be at home to watch your younger siblings so your mother can work.
- 
-We believe support should be available for the many homeless and highly mobile students and parents that attend our schools. In three of our seven school locations, forty percent of students have unstable housing.
- 
-For a number of years, we have been able to access funding to help immigrant and refugee students adjust to the change in their lives, and we want to expand these programs to students coming from communities where generational poverty or unfortunate circumstances create similar needs.
+Last year, our therapists worked with 367 children and teens across Minneapolis. Well over half (66%) were receiving mental health services for the very first time.
 
-## Together we can build a stronger community to help students adjust to changes that are beyond their control.
-
-Your donation will allow us to build and grow these programs to support students in transition
- 
-* Sunshine Circles: a weekly classroom partnership with teachers to help students feel welcomed and nurtured
-* Parenting Through Change, a 14-week parenting skills group to teach parents new ways to monitor, set limits, and provide encouragement for their children as they deal with changes in their own lives
-* Tree of Life groups, a curriculum to help students in transition assess their strengths and resources, identify goals, and learn skills to overcome challenges as they reach for those goals.
-* An adaptation of our successful 12-week acculturation groups for refugees from East Africa, to help students from other communities
+And yet, we need your help to reach the growing need. 1 in 5 of our school-based services do not have predictable funding at this time. In this season of giving, we hope you'll consider making a tax-deductible contribution to our work.
 
 
-## All gifts make a big impact.
+<div><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="74D75475R6RKE">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></div>
+
+
+>"If Watercourse wasn't in our schools, I don't think these kids would get the care they need. Right now, there's a waiting list 40-50 kids long for the mental health program." - Community partner
