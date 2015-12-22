@@ -4,7 +4,14 @@ title: Donate
 nav: 4
 ---
 
->"I'd love to see even more students served by this program. It's amazing." - School principal
+##Last year, our work made a big impact, but we need your help to reach the growing need.
+
+<section class="well stretch">
+<p>
+"I'd love to see even more students served by this program. It's amazing." - School principal
+</p>
+</section>
+
 
 Last year, our therapists worked with 367 children and teens across Minneapolis. Well over half (66%) were receiving mental health services for the very first time.
 
@@ -19,4 +26,8 @@ And yet, we need your help to reach the growing need. 1 in 5 of our school-based
 </form></div>
 
 
->"If Watercourse wasn't in our schools, I don't think these kids would get the care they need. Right now, there's a waiting list 40-50 kids long for the mental health program." - Community partner
+<section class="well stretch">
+<p>
+"If Watercourse wasn't in our schools, I don't think these kids would get the care they need. Right now, there's a waiting list 40-50 kids long for the mental health program." - Community partner
+</p>
+</section>
