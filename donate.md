@@ -6,7 +6,7 @@ nav: 4
 
 ##Last year, our work made a big impact, but we need your help to reach the growing need.
 
-![alt text](https://github.com/watercourse-cc/watercourse/girlstock.jpg "Smiling young girl in winter clothing")
+![Smiling young girl in winter clothing](/girlstock.jpg)
 
 <section class="well stretch">
 <p>
@@ -31,6 +31,7 @@ Although we continue to grow, 1 in 5 of our school-based services do not have pr
 
 
 <section class="well stretch">
+
 <p>
 "If Watercourse wasn't in our schools, I don't think these kids would get the care they need. Right now, there's a waiting list 40-50 kids long for the mental health program." - Community partner
 </p>
