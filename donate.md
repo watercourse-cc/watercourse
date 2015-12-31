@@ -6,6 +6,7 @@ nav: 4
 
 ##Last year, our work made a big impact, but we need your help to reach the growing need.
 
+![alt text](https://github.com/watercourse-cc/watercourse/girlstock.jpg "Smiling young girl in winter clothing")
 
 <section class="well stretch">
 <p>
