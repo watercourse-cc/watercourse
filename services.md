@@ -10,13 +10,13 @@ Watercourse Counseling Center operates two community clinics. Each offers indivi
 
 We work with general mental health issues such as depression, anxiety, life transitions, grief and loss, self-care, self-esteem and stress management.  We also help clients with addiction and impulse control, parenting and healthy development, relationships, sexuality and sexual orientation, identity, and spiritual connection.
 
-### South Minneapolis clinic
+## South Minneapolis clinic
 
 **Phone:**       612-822-8227
 
 **Address:**    3548 Bryant Avenue South (Free street parking)
 
-### North Minneapolis clinic:
+## North Minneapolis clinic:
 
 **Phone:**       612-276-1569
 
@@ -24,7 +24,7 @@ We work with general mental health issues such as depression, anxiety, life tran
 
 **Wheelchair-accessible:** Yes
 
-### How to get started
+## How to get started
 
 Call us at [612-822-8227](tel:612-822-8227) to speak with a staff member or leave a voicemail message.
 
@@ -32,7 +32,7 @@ We'll complete a brief (5-10 minute) phone intake.
 
 During your first session, your therapist will ask about your immediate concerns, gather additional background information, and work with you to determine your goals.
 
-### Payment options:
+## Payment options:
 
 We will work with you to make sure you can afford the services that you need. We accept most insurance plans and many EAP programs. For those who do not have insurance, we also offer a sliding fee option.
 
@@ -42,11 +42,11 @@ Please call us to see whether your insurance will cover services at Watercourse,
 
 # School-based services
 
-### Why School-based services?
+## Why School-based services?
 
 Students and families are significantly more likely to access school-based services than they are to complete a referral to an outside agency.  In order to make services accessible to children and families in the community, we partner with Minneapolis Public Schools to operate mental health clinics at five locations in South and North Minneapolis. These services are designed to support and enhance education outcomes for students at risk.
 
-### What do you offer?
+## What do you offer?
 
 **For individual students and families**, we provide individual counseling and play therapy for children with specific mental health needs; parent education, support and counseling; family counseling; and skill building.
 
@@ -54,7 +54,7 @@ Students and families are significantly more likely to access school-based servi
 
 **For teachers and school staff**, we offer consultation and training.
 
-### Our locations
+## Our locations
 
 We offer school-based clinics for children and families throughout North and South Minneapolis.
 
@@ -62,6 +62,6 @@ We offer school-based clinics for children and families throughout North and Sou
 
 We also offer some services at other locations, including South High, Anwatin Middle School, and some in-home therapy.
 
-### Bilingual services
+## Bilingual services
 
 We currently offer services in English, Spanish, and Somali.
