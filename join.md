@@ -13,13 +13,18 @@ When recruiting candidates for open positions, we will advertise on the [MN Coun
 
 # Internships & Practicum Opportunities
 
-Each year, we accept 4-6 graduate students into our student training program. Over the course of nine months, we give students a solid foundation of practical experience and training needed to successfully work in the mental health field. Our student trainees tell us that our program is different from other programs – students aren’t stuck shadowing for months, nor are they thrown in without training or support.
+Each year, we accept 4-6 graduate students into our training program. Over the course of 9 months, we give students a solid foundation of practical experience needed to successfully work in the mental health field. Our student trainees tell us that our program is different from other programs – students aren’t stuck shadowing for months, nor are they thrown in without training or support.
 
-The program starts with 8 weeks of training as the students build a case load at our clinic and school sites. Students support one another during their weekly student meetings and trainings, and can request help or guidance during case consultation at regular staff meetings and clinical consultations. As students gain experience with the clinical and administrative tasks that encompass mental health work, they take on more clients.
+Our training program offers:
+* 8 weeks of introductory training as you build a case load at our clinic and school sites
+* Weekly student group, led by an experienced clinical supervisor
+* Weekly all-staff meetings, trainings, and case consultations
 
-We seek students who can work autonomously and take on responsibility for a variety of tasks. We identify students who support our mission and have an interest in working with children, families, and adults from diverse communities. Familiarity with Spanish or Somali can be a strong asset in this placement, although it is not necessary.
+Ideal participants can work autonomously and take on responsibility for a variety of tasks. We identify students who support our mission and have an interest in working with children, families, and adults from diverse communities. Familiarity with Spanish or Somali can be a strong asset in this placement, although it is not necessary.
 
-To apply, send both resume and cover letter to jobs(at)watercoursecounseling.org
+To apply:
+* Complete a brief screening questionnaire [here](https://docs.google.com/forms/d/1yJkyiR5gRViSIFBrLAjQML7ZZbKNSy6FYUjlW1ktrlw/viewform?entry.702884059&entry.502240415=Please+check+that+this+is+accurate!&entry.845608170&entry.228968896&entry.1270550901&entry.1948455789&entry.2112202635&entry.220341584&entry.779605033&entry.1404859272) 
+* Send both resume and cover letter to jobs[at]watercoursecounseling.org
 
 
 # Volunteer
