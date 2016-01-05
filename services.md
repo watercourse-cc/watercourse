@@ -12,23 +12,17 @@ We work with general mental health issues such as depression, anxiety, life tran
 
 ### South Minneapolis clinic
 
-Phone:       612-822-8227
+**Phone:**       612-822-8227
 
-Address:    3548 Bryant Avenue South
-Located at the corner of 36th and Bryant.
-
-Parking:     Street parking available
+**Address:**    3548 Bryant Avenue South (Free street parking)
 
 ### North Minneapolis clinic:
 
-Phone:       612-276-1569
+**Phone:**       612-276-1569
 
-Address:    3333 North 4th Street
-Located at the Center for Families
+**Address:**    3333 North 4th Street (Located at the Center for Families; free lot parking)
 
-Parking:     Free lot parking
-
-Wheelchair-accessible: Yes
+**Wheelchair-accessible:** Yes
 
 ### How to get started
 
@@ -62,17 +56,9 @@ Students and families are significantly more likely to access school-based servi
 
 ### Our locations
 
-We offer school-based clinics for children and families at:
+We offer school-based clinics for children and families throughout North and South Minneapolis.
 
-* Andersen United
-* Anne Sullivan Communications Center
-* Bancroft Elementary
-* CityView
-* Loring Elementary
-* Lucy Craft Laney
-* Lyndale Elementary
-* South Area Family Resource Center
-* Whittier International
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=zqgKN69LSyDg.kWzkLXgNak4o" width="640" height="480"></iframe>
 
 We also offer some services at other locations, including South High, Anwatin Middle School, and some in-home therapy.
 
