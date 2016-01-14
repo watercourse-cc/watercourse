@@ -6,9 +6,10 @@ fax: 612-825-4204
 address: 3548 Bryant Ave S, Minneapolis, MN 55408
 description: > # this means to ignore newlines until "baseurl:"
   Watercourse Counseling Center, founded in 1999, is a nonprofit agency established
-  to improve the emotional health of our diverse community.
+  to improve the emotional health of our diverse community. We offer counseling and
+  outreach in community locations and schools thoughout Minneapolis.
 baseurl: ""
-url: "http://test.watercoursecounseling.org" # the base hostname & protocol for your site
+url: "http://www.watercoursecounseling.org" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 facebook_username: watercoursecounseling
