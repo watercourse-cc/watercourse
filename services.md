@@ -10,19 +10,19 @@ Watercourse Counseling Center operates two community clinics. Each offers indivi
 
 We work with general mental health issues such as depression, anxiety, life transitions, grief and loss, self-care, self-esteem and stress management.  We also help clients with addiction and impulse control, parenting and healthy development, relationships, sexuality and sexual orientation, identity, and spiritual connection.
 
-### South Minneapolis clinic
+**South Minneapolis clinic**
 
-**Phone:**       612-822-8227
+Phone:       612-822-8227
 
-**Address:**    3548 Bryant Avenue South (Free street parking)
+Address:    3548 Bryant Avenue South (Free street parking)
 
-### North Minneapolis clinic:
+**North Minneapolis clinic:**
 
-**Phone:**       612-276-1569
+Phone:       612-276-1569
 
-**Address:**    3333 North 4th Street (Located at the Center for Families; free lot parking)
+Address:    3333 North 4th Street (Located at the Center for Families; free lot parking)
 
-**Wheelchair-accessible:** Yes
+Wheelchair-accessible: Yes
 
 ### How to get started
 
@@ -34,9 +34,7 @@ During your first session, your therapist will ask about your immediate concerns
 
 ### Payment options:
 
-We will work with you to make sure you can afford the services that you need. We accept most insurance plans and many EAP programs. For those who do not have insurance, we also offer a sliding fee option.
-
-Unfortunately, we are unable to offer sliding fee rates to clients covered by insurance plans.
+We will work with you to make sure you can afford the services that you need. We accept most insurance plans and many EAP programs. For those who do not have insurance, we offer a sliding fee option.
 
 Please call us to see whether your insurance will cover services at Watercourse, or for information about our sliding fee payment options.
 
