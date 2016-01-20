@@ -34,7 +34,7 @@ Ideal participants can work autonomously and take on responsibility for a variet
 
 Read on for opportunities to share your skills with the Watercourse community in a short- or long-term capacity.
 
-# Today's biggest need
+# Our biggest need: Spring 2016
 
 Gardeners, landscapers, and landscape architects: Since 2008, Watercourse has partnered with the [VOA Southwest Center](http://www.voamnwi.org/southwest-center) to provide a community garden and fresh vegetables for local seniors. We are planning a significant expansion at our South Clinic which will nearly double the size of our front yard, and will be revamping our community garden space as well. We need your help to maximize curb appeal and keep the garden accessible to the seniors who maintain it. Email emilyi@watercoursecounseling.org to get involved in this project to transform our clinic and our neighborhood.
  
