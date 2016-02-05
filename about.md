@@ -11,8 +11,7 @@ Our mission is to solve problems through community partnership; locate
 services in community locations; and mentor mental health professionals
 and others in community outreach and collaboration.
 
-# [Our Services](./services.html)
-
+# [Our Services](http://watercoursecounseling.org/services/)
 We provide individual, family, couples, and group
 counseling for adults and children. We offer support that is
 community-based, affordable, and accessible.  Our staff are culturally
@@ -29,12 +28,14 @@ sexuality and sexual orientation, identity, and spiritual connection
 
 Our work is made possible by the generous support of individuals and organizations. Recent and current supporters include:
 
-[Hennepin County](http://www.hennepin.us/residents/health-medical/childrens-mental-health-services)
+[Allina Health](http://www.allinahealth.org/){:target="_blank"}
 
-[Minneapolis Public Schools](http://cpo.mpls.k12.mn.us/)
+[Hennepin County](http://www.hennepin.us/residents/health-medical/childrens-mental-health-services){:target="_blank"}
 
-[Minnesota Department of Human Services](http://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=id_000162)
+[Minneapolis Public Schools](http://cpo.mpls.k12.mn.us/){:target="_blank"}
 
-[Otto Bremer Trust](http://www.ottobremer.org/) through [AchieveMpls](https://www.achievempls.org/)
+[Minnesota Department of Human Services](http://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=id_000162){:target="_blank"}
 
-[Park Nicollet Foundation](http://www.parknicollet.com/communityandvolunteerism/park-nicollet-foundation)
+[Otto Bremer Trust](http://www.ottobremer.org/){:target="_blank"} through [AchieveMpls](https://www.achievempls.org/){:target="_blank"}
+
+[Park Nicollet Foundation](http://www.parknicollet.com/communityandvolunteerism/park-nicollet-foundation){:target="_blank}"a
