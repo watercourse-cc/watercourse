@@ -8,7 +8,7 @@ nav: 6
 
 Watercourse Counseling Center views its employees as its strongest asset. We strive to provide compensation that will attract a diverse and competent employee base by staying competitive with the nonprofit market place with salary and benefit packages.
  
-When recruiting candidates for open positions, we will advertise on the [MN Council of Nonprofits job board](http://www.minnesotanonprofits.org/jobs), on our website, and through our [email list](http://eepurl.com/bBBXSD).
+When recruiting candidates for open positions, we will advertise on the [MN Council of Nonprofits job board](http://www.minnesotanonprofits.org/jobs){:target="_blank"}, on our website, and through our [email list](http://eepurl.com/bBBXSD){:target="_blank"}.
 
 
 ## Internships & Practicum Opportunities
@@ -26,7 +26,7 @@ Ideal participants can work autonomously and take on responsibility for a variet
 
 # To apply:
 
-* Complete a brief screening questionnaire [here](https://docs.google.com/forms/d/1yJkyiR5gRViSIFBrLAjQML7ZZbKNSy6FYUjlW1ktrlw/viewform?entry.702884059&entry.502240415=Please+check+that+this+is+accurate!&entry.845608170&entry.228968896&entry.1270550901&entry.1948455789&entry.2112202635&entry.220341584&entry.779605033&entry.1404859272) 
+* Complete a brief screening questionnaire [here](https://docs.google.com/forms/d/1yJkyiR5gRViSIFBrLAjQML7ZZbKNSy6FYUjlW1ktrlw/viewform?entry.702884059&entry.502240415=Please+check+that+this+is+accurate!&entry.845608170&entry.228968896&entry.1270550901&entry.1948455789&entry.2112202635&entry.220341584&entry.779605033&entry.1404859272){:target="_blank"}
 * Send both resume and cover letter to jobs@watercoursecounseling.org
 
 
@@ -36,9 +36,10 @@ Read on for opportunities to share your skills with the Watercourse community in
 
 # Our biggest need: Spring 2016
 
-Gardeners, landscapers, and landscape architects: Since 2008, Watercourse has partnered with the [VOA Southwest Center](http://www.voamnwi.org/southwest-center) to provide a community garden and fresh vegetables for local seniors. We are planning a significant expansion at our South Clinic which will nearly double the size of our front yard, and will be revamping our community garden space as well. We need your help to maximize curb appeal and keep the garden accessible to the seniors who maintain it. Email emilyi@watercoursecounseling.org to get involved in this project to transform our clinic and our neighborhood.
+Gardeners, landscapers, and landscape architects: Since 2008, Watercourse has partnered with the [VOA Southwest Center](http://www.voamnwi.org/southwest-center){:target="_blank"} to provide a community garden and fresh vegetables for local seniors. We are planning a significant expansion at our South Clinic which will nearly double the size of our front yard, and will be revamping our community garden space as well. We need your help to maximize curb appeal and keep the garden accessible to the seniors who maintain it. Email emilyi@watercoursecounseling.org to get involved in this project to transform our clinic and our neighborhood.
  
 # Other opportunities include but are not limited to:
+* Greeting our clients and taking phone messages (2-4 hour shifts)
 * Organizing a fundraiser or collection drive
 * Helping us to plan and coordinate special events
 * Photographing our staff and outreach work
