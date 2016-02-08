@@ -4,12 +4,11 @@ title: About Us
 nav: 1
 ---
 
-Watercourse Counseling Center, founded in 1999, is a nonprofit agency
-established to improve the emotional health of our diverse community.
+Watercourse Counseling Center is a nonprofit organization, rooted in community, with a 16-year history of serving the emotional needs of people of all ages from diverse communities in Minneapolis.
 
-Our mission is to solve problems through community partnership; locate
-services in community locations; and mentor mental health professionals
-and others in community outreach and collaboration.
+Our mission is to strengthen our community through responsive program development to increase emotional wellness. Our community clinics and school-based therapists provide counseling for individuals, families, and groups across the city.
+
+To achieve our mission, we solve problems through community partnership; locate services in community locations; and mentor mental health professionals and others in community outreach and collaboration.
 
 # [Our Services](http://watercoursecounseling.org/services/)
 We provide individual, family, couples, and group
