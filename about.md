@@ -37,4 +37,4 @@ Our work is made possible by the generous support of individuals and organizatio
 
 [Otto Bremer Trust](http://www.ottobremer.org/){:target="_blank"} through [AchieveMpls](https://www.achievempls.org/){:target="_blank"}
 
-[Park Nicollet Foundation](http://www.parknicollet.com/communityandvolunteerism/park-nicollet-foundation){:target="_blank}"a
+[Park Nicollet Foundation](http://www.parknicollet.com/communityandvolunteerism/park-nicollet-foundation){:target="_blank"}
