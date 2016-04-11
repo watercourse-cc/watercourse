@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact Watercourse
+nav: 6
 ---
 
 ## Important note, posted 4/6/16:
