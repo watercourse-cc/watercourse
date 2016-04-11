@@ -15,7 +15,7 @@ When recruiting candidates for open positions, we will advertise on the [MN Coun
 
 Each year, we accept 4-6 graduate students into our training program. Over the course of 9 months, we give students a solid foundation of practical experience needed to successfully work in the mental health field. Our student trainees tell us that our program is different from other programs – students aren’t stuck shadowing for months, nor are they thrown in without training or support.
 
-### Our training program offers:
+#### Our training program offers:
 
 * 16-20 hours a week of community-based mental health work in our clinics and schools
 * 8 weeks of introductory training as you build a case load at our clinic and school sites
@@ -34,11 +34,11 @@ Ideal participants can work autonomously and take on responsibility for a variet
 
 Read on for opportunities to share your skills with the Watercourse community in a short- or long-term capacity.
 
-### Our biggest need: Spring 2016
+#### Our biggest need: Spring 2016
 
-Gardeners, landscapers, and landscape architects: Since 2008, Watercourse has partnered with the [VOA Southwest Center](http://www.voamnwi.org/southwest-center){:target="_blank"} to provide a community garden and fresh vegetables for local seniors. We are planning a significant expansion at our South Clinic which will nearly double the size of our front yard, and will be revamping our community garden space as well. We need your help to maximize curb appeal and keep the garden accessible to the seniors who maintain it. Email emilyi@watercoursecounseling.org to get involved in this project to transform our clinic and our neighborhood.
+Gardeners, landscapers, and permaculturists! Since 2008, Watercourse has partnered with the [VOA Southwest Center](http://www.voamnwi.org/southwest-center){:target="_blank"} to provide a community garden and fresh vegetables for local seniors. Our upcoming expansion will nearly double the size of our front yard, so a revamp of our community garden space is in the works. We need your help to maximize curb appeal and keep the garden accessible to the seniors who maintain it. Email [emilyi@watercoursecounseling.org]() to get involved in this project to transform our clinic and our neighborhood.
  
-### Other opportunities include but are not limited to:
+#### Other opportunities include but are not limited to:
 * Greeting our clients and taking phone messages (2-4 hour shifts)
 * Organizing a fundraiser or collection drive
 * Helping us to plan and coordinate special events
@@ -46,4 +46,4 @@ Gardeners, landscapers, and landscape architects: Since 2008, Watercourse has pa
 * Supporting our administrative staff
 * Providing childcare during our parenting groups
 
-To learn more about volunteer opportunities, email emilyi@watercoursecounseling.org.
+To learn more about volunteer opportunities, email [emilyi@watercoursecounseling.org]().
