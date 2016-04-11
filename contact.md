@@ -5,7 +5,7 @@ title: Contact Watercourse
 
 ## Important note, posted 4/6/16:
 
-## We are experiencing difficulties with our phone system. As we attempt to resolve this issue, please call 612-767-8651 to leave a voicemail if you are unable to get through on our main number
+## We are experiencing difficulties with our phone system. As we attempt to resolve this issue, please call 612-767-8651 to leave a voicemail if you are unable to get through on our main number.
 
 For more information about our programs and services, or to schedule an intake appointment, please contact us using the information below:
  
@@ -21,12 +21,13 @@ Fax:
     612-825-4204
  
 General Questions: 
-    [info@watercoursecounseling.org]()
-
-Please note: We are unable to schedule appointments or complete intakes for new clients via email. Please call our main number for more information.
+    [info@watercoursecounseling.org]() -- Please note: We are unable to schedule appointments or complete intakes for new clients via email. Please call our main number for more information.
  
 Job or Practicum Inquiries:  
     [jobs@watercoursecounseling.org]()
+    
+Records requests:
+ We are happy to accommodate records requests. We require 10 business days to process your request. Please call us at 612-822-8227 for more information.
 
 ## Join our Mailing List
 
