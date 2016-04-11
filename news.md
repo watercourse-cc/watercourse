@@ -1,5 +1,5 @@
 ---
 layout: news
-title: News & Events
+title: News & events
 nav: 3
 ---
