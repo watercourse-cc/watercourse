@@ -29,6 +29,7 @@ Ideal participants can work autonomously and take on responsibility for a variet
 * Complete a brief screening questionnaire [here](https://docs.google.com/forms/d/1yJkyiR5gRViSIFBrLAjQML7ZZbKNSy6FYUjlW1ktrlw/viewform?entry.702884059&entry.502240415=Please+check+that+this+is+accurate!&entry.845608170&entry.228968896&entry.1270550901&entry.1948455789&entry.2112202635&entry.220341584&entry.779605033&entry.1404859272){:target="_blank"}
 * Send both resume and cover letter to jobs@watercoursecounseling.org
 
+![Smiling community garden volunteer](/volunteer.jpg)
 
 ## Volunteer
 
