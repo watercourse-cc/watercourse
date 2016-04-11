@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Services
+title: Our services
 nav: 2
 ---
 
