@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Watercourse
+title: Contact us
 nav: 7
 ---
 
