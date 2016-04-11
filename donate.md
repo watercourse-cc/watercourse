@@ -4,7 +4,7 @@ title: Donate
 nav: 4
 ---
 
-###Last year, our work made a big impact, but we need your help to reach the growing need.
+### Last year, our work made a big impact, but we need your help to reach the growing need.
 
 ![Smiling young girl in winter clothing](/girlstock-spring.jpg)
 
