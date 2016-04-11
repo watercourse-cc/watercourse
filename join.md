@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join our Team
+title: Join our team
 nav: 6
 ---
 
