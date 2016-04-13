@@ -31,7 +31,8 @@ You can make a one-time or monthly donation using Paypal. (You don't need a Payp
 </form></div>
 
 
-You can also support our work with a percentage of all amazon.com purchases. Simply:
+You can also support our work with a percentage of all amazon.com purchases. It's as easy as 1, 2, 3! Simply:
+
 1. Click [here](https://smile.amazon.com/ch/41-1946275) and follow the directions to set up Watercourse as your preferred recipient
 
 2. Once you arrive at [smile.amazon.com](http://smile.amazon.com), click Ctrl + D to bookmark the page (you may need to click "Add" or "Done" to confirm)
