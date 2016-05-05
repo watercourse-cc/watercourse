@@ -42,11 +42,13 @@ Please call us to see whether your insurance will cover services at Watercourse,
 
 Students and families are significantly more likely to access school-based services than they are to complete a referral to an outside agency.  In order to make services accessible to children and families in the community, we partner with Minneapolis Public Schools to operate mental health clinics at five locations in South and North Minneapolis. These services are designed to support and enhance education outcomes for students at risk.
 
-**For individual students and families**, we provide individual counseling and play therapy for children with specific mental health needs; parent education, support and counseling; family counseling; and skill building.
+- **For individual students and families**, we provide individual counseling and play therapy for children with specific mental health needs; parent education, support and counseling; family counseling; and skill building.
+- **For groups of children or parents**, we lead skill-building groups, parent training, and classroom presentation.
+- **For teachers and school staff**, we offer consultation and training.
 
-**For groups of children or parents**, we lead skill-building groups, parent training, and classroom presentation.
-
-**For teachers and school staff**, we offer consultation and training.
+Read more about these unique school-based services:
+- [Minnesota program embeds therapists in schools](http://www.postcrescent.com/story/news/local/2016/03/22/minnesota-program-embeds-therapists-schools/82094580/)
+- [School-based services success in Minneapolis](http://www.thenorthwestern.com/story/news/2016/03/22/school-based-services-success-minneapolis/82094674/)
 
 ## Our locations
 
