@@ -47,6 +47,7 @@ Students and families are significantly more likely to access school-based servi
 - **For teachers and school staff**, we offer consultation and training.
 
 Read more about these unique school-based services:
+
 - [Minnesota program embeds therapists in schools](http://www.postcrescent.com/story/news/local/2016/03/22/minnesota-program-embeds-therapists-schools/82094580/)
 - [School-based services success in Minneapolis](http://www.thenorthwestern.com/story/news/2016/03/22/school-based-services-success-minneapolis/82094674/)
 
