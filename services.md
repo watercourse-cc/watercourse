@@ -10,6 +10,8 @@ Watercourse Counseling Center operates two community clinics. Each offers indivi
 
 We work with general mental health issues such as depression, anxiety, life transitions, grief and loss, self-care, self-esteem and stress management.  We also help clients with addiction and impulse control, parenting and healthy development, relationships, sexuality and sexual orientation, identity, and spiritual connection.
 
+We offer some specialized services as well, including Dialectical Behavior Therapy ([DBT](http://behavioraltech.org/resources/whatisdbt.cfm)) for individuals, brief premarital services using the [Prepare/Enrich](https://www.prepare-enrich.com/webapp/pe/faq/template/DisplaySecureContent.vm;pc=1463515950659;jsessionid=062F75DC8B5BFCA4B4D5A773EE1E0061?id=pe*faq*overview.html&emb_org_id=0&emb_sch_id=0&emb_lng_code=ENGLISH) model, and Eye Movement Desensitization and Reprocessing ([EMDR](http://www.emdr.com/what-is-emdr/)).
+
 **South Minneapolis clinic**
 
 Phone:       612-822-8227
