@@ -4,10 +4,6 @@ title: Contact us
 nav: 7
 ---
 
-## Important note, posted 4/6/16:
-
-## We are experiencing difficulties with our phone system. As we attempt to resolve this issue, please call 612-767-8651 to leave a voicemail if you are unable to get through on our main number.
-
 For more information about our programs and services, or to schedule an intake appointment, please contact us using the information below:
  
 Address:  
@@ -15,7 +11,7 @@ Address:
     Minneapolis, MN 55408
  
 Phone:  
-    612-822-8227  **SEE NOTE AT TOP OF PAGE**
+    612-822-8227
    
  
 Fax:  
@@ -28,7 +24,7 @@ Job or Practicum Inquiries:
     [jobs@watercoursecounseling.org]()
     
 Records requests:
- We are happy to accommodate records requests. We require 10 business days to process your request. Please call us at 612-822-8227 for more information.
+ We are happy to accommodate records requests, and require 10 business days to process your request. Please call us at 612-822-8227 for more information.
 
 ## Join our Mailing List
 
