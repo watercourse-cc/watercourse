@@ -4,7 +4,9 @@ title: Donate
 nav: 4
 ---
 
-### Last year, our work made a big impact, but we need your help to reach the growing need.
+### Every day, our work makes a big impact. Now, you can, too.
+
+Thanks to the generosity of the Pohlad Family Foundation, your gift will have double the impact. If you have never donated before (or haven't given in the last three years), your gift will be matched up to $500. So if you give $100, the Pohlad foundation will turn it into $200.
 
 ![Smiling young girl in winter clothing](/girlstock-spring.jpg)
 
@@ -22,7 +24,7 @@ Although we continue to grow, 1 in 5 of our school-based services do not have pr
 
 ### Ways to Give
 
-You can make a one-time or monthly donation using Paypal. (You don't need a Paypal account to give) 
+You can make a one-time or monthly donation using Paypal. (You don't need a Paypal account to give). And remember, eligible donations will be matched up to $500!
 <div><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="74D75475R6RKE">
