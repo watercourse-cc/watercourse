@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our big makeover: More details on our South Clinic expansion
+title: Our big makeover - More details on our South Clinic expansion
 ---
 
 In case you missed it, we've got a big renovation project in the works. By adding space to our South Clinic, and remodeling existing space, we'll be able to serve even more clients and to offer new services like groups. Exciting, right? But that's not all.
