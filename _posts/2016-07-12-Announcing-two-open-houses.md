@@ -6,7 +6,7 @@ layout: post
 
 Join us at Uptown Heating's Community Gathering Space (3554 Bryant Ave S, Minneapolis) for an informal drop-in gathering to learn about our upcoming expansion project, and what it means for our neighborhood!
 
-We'll be hosting two open houses: July 25th (3-5pm) and July 28th (3-5pm)
+We'll be hosting two open houses: **July 25th (3-5pm)** and **July 28th (3-5pm)**
 
 After 15 years at our South Minneapolis location, Watercourse is undergoing a building expansion that will double clinical space, making mental health services more accessible. We will also be redoing our landscaping, and creating community space in the form of an engraved brick patio and garden.
 
