@@ -23,8 +23,7 @@ with a sense of humor is a godsend!"</p>
 </section>
 
 We operate from a fundamental belief in the power of relationship in
-life and in healing. Our approach relies on collaboration in which each
-person matters and in which each peron's abilities, sense of self, and
+life and in healing. Our approach relies on collaboration in which each person's abilities, sense of self, and
 life experiences are valued and utilized.
 
 <!-- Begin MailChimp Signup Form -->
