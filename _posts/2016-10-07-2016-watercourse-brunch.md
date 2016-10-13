@@ -2,7 +2,7 @@
 layout: post
 ---
 
-It's our favorite time of year!  We're preparing for our 3rd annual Achieving Balance brunch, and you're invited!
+It's our favorite time of year!  We're preparing for our [3rd annual Achieving Balance brunch](/2016/10/12/2016-brunch/), and you're invited!
 
 In addition to **wellness activities**, **a silent auction** you've come to love, we will host **featured speaker** Hector Matascastillo, who will discuss the impact of trauma across the lifespan. 
 
