@@ -40,7 +40,7 @@ Minneapolis, MN 55408
   provided.
 
 If interested in the group or for more information, contact Julie at:
-VM: 612.767.8663 / Email: juliek@watercoursecounseling.org
+VM: 612.767.8663 / Email: [juliek@watercoursecounseling.org](mailto:juliek@watercoursecounseling.org?subject=Tria Our Stories Our Lives)
 
 ![Headwaters Foundation for Justice logo](/images/headwaters-justice.png)
 
