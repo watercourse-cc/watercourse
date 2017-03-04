@@ -6,8 +6,6 @@ nav: 4
 
 ### Every day, our work makes a big impact. Now, you can, too.
 
-Thanks to the generosity of the Pohlad Family Foundation, all new gifts will be matched up to $500 until October of this year. Your first-time gift has double the impact, so if you give $100, the Pohlad foundation will turn it into $200!
-
 ![Smiling young girl in winter clothing](/girlstock-spring.jpg)
 
 <section class="well stretch">
