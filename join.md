@@ -11,6 +11,11 @@ We views our employees as our strongest asset. We strive to provide compensation
 When recruiting candidates for open positions, we will advertise on the [MN Council of Nonprofits job board](http://www.minnesotanonprofits.org/jobs){:target="_blank"}, on this website, and through our [email list](http://eepurl.com/bBBXSD){:target="_blank"} and social media.
 
 
+#### Current openings:
+- [Licensed Psychologist](http://www.minnesotanonprofits.org/job-details?id=130409) (part-time)
+- [School-based Therapist](http://www.minnesotanonprofits.org/job-details?id=130404) (full-time)
+
+
 ## Internships & Practicum Opportunities
 
 Each year, we accept 4-6 graduate students into our training program. Over the course of 9 months, we give students a solid foundation of practical experience needed to successfully work in the mental health field. Our student trainees tell us that our program is different from other programs – students aren’t stuck shadowing for months, nor are they thrown in without training or support.
