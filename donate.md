@@ -20,7 +20,8 @@ Although we continue to grow, 1 in 5 of our school-based services do not have pr
 
 ### Ways to Give
 
-You can make a one-time or monthly donation using Paypal. (You don't need a Paypal account to give). And remember, eligible donations will be matched up to $500!
+You can make a one-time or monthly donation using Paypal. (You don't even need a Paypal account!).
+
 <div><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="74D75475R6RKE">
