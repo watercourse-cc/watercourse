@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Announcing TRIA: a new group for adult adoptees
 ---
 
 ![TRIA logo](/images/tria-stories-lives.png)
