@@ -3,7 +3,7 @@ layout: post
 title: Have you seen our new look? Now's the time!
 ---
 
-![picture of south clinic](/fullsizerender.jpg)
+![picture of south clinic](/FullSizeRender.jpg)
 
 **Attention: Board of Directors, Minneapolis Public School & community partners, students, staff, and friends**
 
