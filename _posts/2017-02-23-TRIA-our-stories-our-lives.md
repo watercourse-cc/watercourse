@@ -2,7 +2,6 @@
 layout: post
 ---
 
-![Watercourse logo](/logo.svg)
 ![TRIA logo](/images/tria-stories-lives.png)
 
 In collaboration with Watercourse Counseling Center and with the
@@ -27,17 +26,13 @@ layers of our lives, we can reveal and understand our whole selves.
 The group will be led by TRIA therapists Julie Jong Koch, MSW, LICSW and
 Jessica Shultz, MA.
 
-When: Weekly on Wednesdays 6-8pm, for a 12-week period; the group will
-start in mid-late March. Exact date TBD.
+When: Weekly on Wednesdays 6-8pm, for a 12-week period from March 29th through June 14th.
 
 Where: 
-Watercourse Counseling Center
-3548 Bryant Ave S
-Minneapolis, MN 55408
+Watercourse Counseling Center South Clinic
+3548 Bryant Ave S, Minneapolis
 
-* Enrollment is limited to 10 participants, and attendance at all 12
-  sessions is required.  Snacks, refreshments, and all materials
-  provided.
+Enrollment is limited to 10 participants, and attendance at all 12 sessions is required.  Snacks, refreshments, and all materials provided.
 
 If interested in the group or for more information, contact Julie at:
 VM: 612.767.8663 / Email: [juliek@watercoursecounseling.org](mailto:juliek@watercoursecounseling.org?subject=Tria Our Stories Our Lives)
