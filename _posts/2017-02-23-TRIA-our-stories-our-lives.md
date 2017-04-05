@@ -35,7 +35,7 @@ Watercourse Counseling Center South Clinic
 Enrollment is limited to 10 participants, and attendance at all 12 sessions is required.  Snacks, refreshments, and all materials provided.
 
 If interested in the group or for more information, contact Julie at:
-VM: 612.767.8663 / Email: [juliek@watercoursecounseling.org](mailto:juliek@watercoursecounseling.org?subject=Tria Our Stories Our Lives)
+VM: 612.767.8663 / Email: juliek@watercoursecounseling.org
 
 ![Headwaters Foundation for Justice logo](/images/headwaters-justice.png)
 
