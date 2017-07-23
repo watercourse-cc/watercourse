@@ -15,8 +15,6 @@ title: School Staff
 ## Lucy Craft Laney School
 
 Kat Chadwell, MA, LMFT
- 
-Ashley Booker, MSW, LGSW
 
 ## Anne Sullivan School
 
@@ -49,8 +47,6 @@ Before joining this agency in 2004, I worked as a school therapist in Oakland, C
 I believe that the effectiveness of therapy lies in the relationship between the client and the therapist.
 
 ### Julie Koch, MSW, LISW
-
-### Scott Dupuis, MA
 
 ## Andersen United School
 
@@ -102,4 +98,4 @@ I believe building relationship and trust is the key factor to a successful ther
 
 ## Cityview Community School
 
-### Margaret Houston, MA, LMFT
+### Maureen Iqbal, MSW, LICSW
